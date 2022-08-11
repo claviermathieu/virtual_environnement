@@ -17,13 +17,11 @@ Basically, a virtual environnement replicate a new Python environnement as if yo
 > C:\Users\Mathieu\AppData\Local\Programs\Python\Python38\python.exe -m venv MyEnvironnementName
 
 
-```{note}
+
 If you have Python38 in your virtual environnement and you want to create a virtual env from this Python version. You only need to type
 
-> venv MyEnvironnmentName
+> python -m venv MyEnvironnmentName
 
-If you have 
-```
 
 
 ## How to use it?
